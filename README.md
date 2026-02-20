@@ -1,4 +1,4 @@
-# Homework III — Network Dynamics and Learning (HW3)
+# Network Dynamics
 
 This folder contains the code and material for **Homework III** (Network Dynamics and Learning, 2025/2026).
 The implementation follows the assignment requirements: **SRI dynamics simulation**, **random graph generation** and **Nash equilibrium computation** on networks.
